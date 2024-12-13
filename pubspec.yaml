@@ -1,0 +1,19 @@
+name: figma_squircle_updated
+description: A new Flutter package project.
+version: 0.5.5
+homepage: https://github.com/aloisdeniel/figma_squircle
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+  flutter: ">=2.0.0"
+
+dependencies:
+  vector_math: ^2.1.4
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
